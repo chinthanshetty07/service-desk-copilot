@@ -1,5 +1,7 @@
 # Service Desk Copilot
 
+[![CI](https://github.com/chinthanshetty07/service-desk-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/chinthanshetty07/service-desk-copilot/actions/workflows/ci.yml)
+
 A small, production-shaped AI service for IT support tickets: it retrieves the right knowledge-base
 articles (RAG over a FAISS index), drafts a cited first reply, sets priority, flags tickets that can be
 automated (like password resets), and **hands the ticket to a human when it isn't confident**. Every
