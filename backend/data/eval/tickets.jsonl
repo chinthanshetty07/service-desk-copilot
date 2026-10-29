@@ -1,0 +1,30 @@
+{"subject": "Forgot my password", "description": "I can't remember my password and it expired this morning.", "doc": "KB-001", "category": "Access & Identity", "priority": "P2", "abstain": false}
+{"subject": "Password expired", "description": "Windows says my password has expired and I need a new one to get into email.", "doc": "KB-001", "category": "Access & Identity", "priority": "P3", "abstain": false}
+{"subject": "Account locked", "description": "It says my account is locked after I typed the wrong password a few times.", "doc": "KB-002", "category": "Access & Identity", "priority": "P2", "abstain": false}
+{"subject": "Locked out again", "description": "I keep getting locked out every morning, I think my old phone still has the saved password.", "doc": "KB-002", "category": "Access & Identity", "priority": "P2", "abstain": false}
+{"subject": "New phone, no MFA prompts", "description": "I switched to a new phone and the authenticator app is not getting any sign-in prompts.", "doc": "KB-003", "category": "Access & Identity", "priority": "P3", "abstain": false}
+{"subject": "Lost authenticator", "description": "I deleted the authenticator app by mistake and now multi-factor authentication fails.", "doc": "KB-003", "category": "Access & Identity", "priority": "P3", "abstain": false}
+{"subject": "VPN won't connect", "description": "The VPN client shows an authentication error when I work from home.", "doc": "KB-004", "category": "Network", "priority": "P3", "abstain": false}
+{"subject": "VPN certificate expired", "description": "VPN says certificate expired and will not connect.", "doc": "KB-004", "category": "Network", "priority": "P3", "abstain": false}
+{"subject": "VPN down for everyone", "description": "Nobody in the sales team can connect to the VPN, many users are affected.", "doc": "KB-004", "category": "Network", "priority": "P1", "abstain": false}
+{"subject": "Wi-Fi connected but no internet", "description": "My laptop shows it is connected to office Wi-Fi but no pages load.", "doc": "KB-005", "category": "Network", "priority": "P3", "abstain": false}
+{"subject": "Whole floor has no internet", "description": "The whole floor on level 3 lost internet on the office wifi.", "doc": "KB-005", "category": "Network", "priority": "P1", "abstain": false}
+{"subject": "Outlook not syncing", "description": "New emails are not arriving in Outlook but I can see them in webmail.", "doc": "KB-006", "category": "Email & Collaboration", "priority": "P3", "abstain": false}
+{"subject": "Outlook disconnected", "description": "Outlook shows Disconnected at the bottom and my inbox is stuck.", "doc": "KB-006", "category": "Email & Collaboration", "priority": "P3", "abstain": false}
+{"subject": "Access to finance shared mailbox", "description": "Please give me access to the finance shared mailbox, read access is enough.", "doc": "KB-007", "category": "Access & Identity", "priority": "P3", "abstain": false}
+{"subject": "Add me to distribution list", "description": "Can you add me to the all-hands distribution list and the marketing shared folder?", "doc": "KB-007", "category": "Access & Identity", "priority": "P3", "abstain": false}
+{"subject": "Laptop very slow", "description": "My laptop is really slow and freezes when I open several apps; the fan is loud.", "doc": "KB-008", "category": "Hardware", "priority": "P3", "abstain": false}
+{"subject": "Computer freezing", "description": "Laptop keeps freezing and the disk is almost full.", "doc": "KB-008", "category": "Hardware", "priority": "P3", "abstain": false}
+{"subject": "Printer offline", "description": "The printer on floor 2 shows offline and my print jobs are stuck in the queue.", "doc": "KB-009", "category": "Hardware", "priority": "P3", "abstain": false}
+{"subject": "Can't print", "description": "Nothing comes out of the printer when I print, no error shown.", "doc": "KB-009", "category": "Hardware", "priority": "P3", "abstain": false}
+{"subject": "Need Figma installed", "description": "I need Figma installed on my laptop for design work, it is not in the software portal.", "doc": "KB-010", "category": "Software", "priority": "P3", "abstain": false}
+{"subject": "Install new software", "description": "Please install Tableau, I need a licence for the reporting project.", "doc": "KB-010", "category": "Software", "priority": "P3", "abstain": false}
+{"subject": "Teams microphone not working", "description": "In Teams calls nobody can hear me even though my microphone works elsewhere.", "doc": "KB-011", "category": "Email & Collaboration", "priority": "P3", "abstain": false}
+{"subject": "Camera not showing in Teams", "description": "My camera shows a black screen in Microsoft Teams video calls.", "doc": "KB-011", "category": "Email & Collaboration", "priority": "P3", "abstain": false}
+{"subject": "Suspicious email", "description": "I got an email asking me to confirm my bank details, it looks like phishing.", "doc": "KB-012", "category": "Security", "priority": "P3", "abstain": false}
+{"subject": "Clicked a phishing link", "description": "I clicked the link in a suspicious email and entered my password before I realised.", "doc": "KB-012", "category": "Security", "priority": "P1", "abstain": false}
+{"subject": "Laptop stolen", "description": "My company laptop was stolen from my car last night.", "doc": "KB-013", "category": "Security", "priority": "P1", "abstain": false}
+{"subject": "Lost my phone", "description": "I lost my phone with company email on it at the airport.", "doc": "KB-013", "category": "Security", "priority": "P1", "abstain": false}
+{"subject": "Cafeteria menu", "description": "What is on the lunch menu in the cafeteria today?", "doc": null, "category": "Needs triage", "priority": "P3", "abstain": true}
+{"subject": "Payslip question", "description": "My salary slip for September shows the wrong tax deduction.", "doc": null, "category": "Needs triage", "priority": "P3", "abstain": true}
+{"subject": "Parking pass", "description": "How do I get a parking sticker for the basement car park?", "doc": null, "category": "Needs triage", "priority": "P3", "abstain": true}

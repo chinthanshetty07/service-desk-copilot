@@ -1,0 +1,10 @@
+services:
+  api:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      # extractive (default, offline) or claude (needs ANTHROPIC_API_KEY in your shell)
+      LLM_PROVIDER: ${LLM_PROVIDER:-extractive}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      CORS_ORIGINS: http://localhost:3000

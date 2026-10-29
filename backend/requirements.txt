@@ -1,0 +1,7 @@
+fastapi==0.120.*
+uvicorn[standard]==0.38.*
+pydantic==2.*
+anthropic>=2.3,<3
+faiss-cpu==1.15.*
+scikit-learn==1.8.*
+numpy>=2.1
